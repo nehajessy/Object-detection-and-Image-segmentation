@@ -1,7 +1,3 @@
-Here's a concise `README.md` for your GitHub project:
-
----
-
 # YOLOv8 + SAM: Object Detection and Background Removal
 
 This project demonstrates object detection and segmentation using YOLOv8 and the Segment Anything Model (SAM) with Vision Transformer (ViT-H). After detecting and segmenting objects in an image, the background is removed, isolating the object of interest.
